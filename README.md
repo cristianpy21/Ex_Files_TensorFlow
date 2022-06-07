@@ -1,4 +1,4 @@
-## Ex_Files_TensorFlow (LinkedIn Learning)
+## Practice with TensorFlow (LinkedIn Learning)
 
 Accompanying repo for the online course Building and Deploying Deep Learning Applications with TensorFlow.
 
